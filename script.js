@@ -1,5 +1,8 @@
+// LESS GREEATER
+document.getElementById("less-greater").innerHTML = "<h3>asd</h3>"
+
 // CONDITIONAL and LOGIC
-document.getElementById("conditionals").innerHTML = "<h3>CONDITIONALS<br>if Statement: if(some condition) {do something if true} else {do something if false}<br>Equality: a==b </h3>"
+document.getElementById("conditionals").innerHTML = "<h3>CONDITIONALS<br>if Statement: if(some condition) {do something if true} else {do something if false}<br>Equality: a==b <br> Strict Equality: ===<br>Less Than/Greater Than or Equal To: <= or >=<br>Not Equal: != <br> Not Equal(strict): !==<br> Test Boolean (true): if(a==true){} or if(a){}<br> Test Boolean (false): if(a==false){} or if(a!=true) 0r if(!a){}</h3>"
 
 //OPERATORS
 document.getElementById("operators").innerHTML = "<h3>OPERATORS<br>Assignment Operator: =<br>Arithmetic Operators: = + - * /<br>Shorthand Math:  += , -= , *= , /=<br>Unary Operator: a++ , a-- , ++a , --a</h3>"

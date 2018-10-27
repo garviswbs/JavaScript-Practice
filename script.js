@@ -1,3 +1,6 @@
+// ARRAY
+document.getElementById("arrays").innerHTML = "<h3>ARRAYS<br>var pens;<br>pens = ['white' , 'blue' , 'red' , 'green' , 'black' ];</h3>"
+
 // TERNARY OPERATOR
 document.getElementById("ternary").innerHTML = "<h3>TERNARY OPERATOR<br>Shorthand if/else: a == b ? console.log('Match') : console.log('Not Match') ;</h3>"
 

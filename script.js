@@ -1,5 +1,8 @@
+// TERNARY OPERATOR
+document.getElementById("ternary").innerHTML = "<h3>TERNARY OPERATOR<br>Shorthand if/else: a == b ? console.log('Match') : console.log('Not Match') ;</h3>"
+
 // LESS GREEATER
-document.getElementById("less-greater").innerHTML = "<h3>asd</h3>"
+document.getElementById("logical-operators").innerHTML = "<h3>LOGICAL OPERATORS: AND/OR <br>And: if ( a == b && c == d ) { }<br>Or: if ( a == b || c == d ) { }</h3>"
 
 // CONDITIONAL and LOGIC
 document.getElementById("conditionals").innerHTML = "<h3>CONDITIONALS<br>if Statement: if(some condition) {do something if true} else {do something if false}<br>Equality: a==b <br> Strict Equality: ===<br>Less Than/Greater Than or Equal To: <= or >=<br>Not Equal: != <br> Not Equal(strict): !==<br> Test Boolean (true): if(a==true){} or if(a){}<br> Test Boolean (false): if(a==false){} or if(a!=true) 0r if(!a){}</h3>"

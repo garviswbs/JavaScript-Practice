@@ -1,3 +1,6 @@
+// ARRAY: Properties and Methods
+document.getElementById("arrays-two").innerHTML = "<h3>ARRAYS: Properties and Methods<br>Property: Meta information about the obeject<br>Method: Function that belongs to the object</h3>"
+
 // ARRAY
 document.getElementById("arrays").innerHTML = "<h3>ARRAYS<br>var pens;<br>pens = ['white' , 'blue' , 'red' , 'green' , 'black' ];</h3>"
 
